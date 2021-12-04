@@ -30,6 +30,9 @@ em {
 h1 {
   font-family: 'Helvetica', cursive;
   font-size: 4em;
+}
+.projects-page h1 {
+  font-size: 3em;
 }  
 h2 {
   font-family: 'Helvetica', cursive;
